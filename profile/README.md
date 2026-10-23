@@ -10,4 +10,4 @@ What we work on:
 - Decision models: [JevAlt](https://github.com/mertkayacs/jevalt) and [JevOss](https://github.com/mertkayacs/jevoss), small models that pick an answer and say how sure they are.
 - Local AI and open tools: [Tholos](https://github.com/mertkayacs/tholos) and [reevesagents](https://github.com/mertkayacs/reevesagents).
 
-Founded by [Mert Kaya](https://mertkayacs.com) and Betül Keleş Kaya.
+Founded by [Mert Kaya](https://mertkayacs.com) and Betül Keleş Kaya. In the founding team @demirciberk
